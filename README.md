@@ -13,7 +13,7 @@ uses the first grid to define atom-centered basins of attraction, and integrates
 * **-v/-t** verbose or testing (extra verbose) modes
 
 # References
-Original algorithm described in the first reference; the latter two references include examples. *If you use the code, please cite the first reference*.
+Original algorithm described in the first reference; the latter two references include examples. *If you use the code, please cite the first reference* as well as [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18776.svg)](http://dx.doi.org/10.5281/zenodo.18776)
 
 * M. Yu and D. R. Trinkle, "Accurate and efficient algorithm for Bader charge integration." *J. Chem. Phys.* **134**, 064111 (2011). [doi](http://dx.doi.org//10.1063/1.3553716)
 * M. Yu, D. R. Trinkle, and R. M. Martin, "Energy density in density functional theory: Application to crystalline defects and surfaces." *Phys. Rev. B* **83**, 115113 (2011). [doi](http://dx.doi.org/10.1103/PhysRevB.83.115113)
